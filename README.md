@@ -2,7 +2,7 @@ Recon-A is an open-source intelligence tool that makes it easier to verify exist
 
 Requirements:
 
-OS: Linux
+OS: Linux, Debian based distribution
 
 python libraries:
   pip install dnspython
