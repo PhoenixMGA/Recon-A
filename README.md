@@ -5,12 +5,12 @@ Requirements:
 OS: Linux, Debian based distribution
 
 python libraries:
-  pip install dnspython
-  pip install requests
-  pip install python-nmap
-  pip install pathlib
-  pip install csv
-  pip install pathlib
+  -pip install dnspython-
+  -pip install requests-
+  -pip install python-nmap-
+  -pip install pathlib-
+  -pip install csv-
+  -pip install pathlib-
 
 For screenshots, a subprocess is used called wkhtmltopdf & wkhtmltoimage for Debian based distributions (Debian 11 / Debian 10 / Debian 9)
 
