@@ -50,8 +50,7 @@ def parralel_filtering_of_domains(list_of_domains: list[str]) -> Iterator[str]:
 
 
 def get_all_domains_names_that_exist() -> Iterator[str]:
-    #company_name = input("Enter the company name: ")
-    company_name = "google"
+    company_name = input("Enter the company name: ")
     extension_list = get_list_of_tlds()
     domain_names = [company_name + extension for extension in extension_list]
 
