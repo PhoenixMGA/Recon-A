@@ -20,4 +20,5 @@ For screenshots, a subprocess is used called wkhtmltopdf & wkhtmltoimage for Deb
   sudo dpkg -i wkhtmltox_0.12.5-1.stretch_amd64.deb
   sudo apt -f install
   
+To run: Runs directly from saved file. Input company name when prompted. 
   
