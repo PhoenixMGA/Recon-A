@@ -22,3 +22,4 @@ For screenshots, a subprocess is used called wkhtmltopdf & wkhtmltoimage for Deb
   
 To run: Runs directly from saved file. Input company name when prompted. 
   
+Screenshots are saved under found domain_name.png. 
