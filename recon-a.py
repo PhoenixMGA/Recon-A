@@ -1,7 +1,5 @@
 ## RECON-A - an OSINT reconnaissance tool
 ## created by PhoenixMGA on sept 29 2023
-## for Akerva Offensive Security
-
 
 import dns.resolver
 import requests
