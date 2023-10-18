@@ -1,6 +1,8 @@
 ## RECON-A - an OSINT reconnaissance tool
 ## created by PhoenixMGA on sept 29 2023
 
+#!/bin/bash
+
 import dns.resolver
 import requests
 import socket
